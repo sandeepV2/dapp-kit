@@ -1,0 +1,145 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/sbelagavi/blockchain/coffeDapp/contracts/chai.sol": {
+      "lastModificationDate": 1715614541561,
+      "contentHash": "536ec2c5ec36c17a1ffa263c23604c89",
+      "sourceName": "contracts/chai.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "chai"
+      ]
+    },
+    "/Users/sbelagavi/blockchain/coffeDapp/contracts/wallet.sol": {
+      "lastModificationDate": 1715703809717,
+      "contentHash": "1a053b8e5581f34aef0338e4c6568d72",
+      "sourceName": "contracts/wallet.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "wallet"
+      ]
+    },
+    "/Users/sbelagavi/blockchain/dapp-kit/contracts/chai.sol": {
+      "lastModificationDate": 1715840311729,
+      "contentHash": "536ec2c5ec36c17a1ffa263c23604c89",
+      "sourceName": "contracts/chai.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "chai"
+      ]
+    },
+    "/Users/sbelagavi/blockchain/dapp-kit/contracts/wallet.sol": {
+      "lastModificationDate": 1715840311730,
+      "contentHash": "1a053b8e5581f34aef0338e4c6568d72",
+      "sourceName": "contracts/wallet.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "wallet"
+      ]
+    }
+  }
+}
